@@ -1,7 +1,21 @@
-### AYoo, I'm HE JUN 👋
-* Students of Chongqing University Class of 2022.🧑‍💻
-* Majoring in data science.📊
+# AYoo, I'm HE JUN 👋
 
-### 朋友你好呀！我是張和俊
-来自澳门，重庆大学22级数据科学与大数据的本科生。
+**Data Science Enthusiast | Lifelong Learner | Problem Solver**
 
+🎓 **Students of Chongqing University, Class of 2022**  
+📊 **Majoring in Data Science and Big Data Technology**  
+🌍 **From Macau, Exploring the World Through Data**
+
+---
+
+### 朋友你好呀！我是張和俊 👋
+
+---
+
+### 联系我
+📧 **Email**: 99gelanjingling@gmail.com  
+🌐 **GitHub**: [codeofwhite](https://github.com/codeofwhite)  
+
+---
+
+**Let's connect and create something amazing together! 🚀**
