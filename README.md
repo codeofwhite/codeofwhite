@@ -14,7 +14,7 @@
 
 ### 联系我
 📧 **Email**: 99gelanjingling@gmail.com  
-🌐 **GitHub**: [codeofwhite](https://github.com/codeofwhite)  
+📧 **QQ/WECHAT**: 1363180320
 
 ---
 
