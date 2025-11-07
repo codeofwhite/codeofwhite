@@ -1,6 +1,4 @@
-# AYoo, I'm HE JUN 👋
-
-**Data Science Enthusiast | Lifelong Learner | Problem Solver**
+# Hi, I'm HE JUN 
 
 🎓 **Students of Chongqing University, Class of 2022**  
 📊 **Majoring in Data Science and Big Data Technology**  
@@ -8,7 +6,7 @@
 
 ---
 
-### 朋友你好呀！我是張和俊 👋
+### 朋友你好呀！我是張和俊 
 
 ---
 
