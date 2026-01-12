@@ -1,6 +1,7 @@
 # Hi, I'm HE JUN 
 
 🎓 **Students of Chongqing University, Class of 2022**  
+
 📊 **Majoring in Data Science and Big Data Technology**  
 
 ---
@@ -11,5 +12,6 @@
 
 ### 联系我
 📧 **Email**: 1363180320@qq.com
+
 📧 **QQ/WECHAT**: 1363180320
 
