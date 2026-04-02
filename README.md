@@ -7,9 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Embodied+AI+%7C+Agent+%7C+World+Models;Large+Language+Models+%7C+Multimodal+Learning;Data+Science+%7C+Computer+Vision;Chongqing+University+2022+Class" alt="Typing SVG" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=codeofwhite&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/codeofwhite?style=social)
-
 🎓 **Chongqing University, Class of 2022**  
 🧠 **Major: Data Science and Big Data Technology**
 
