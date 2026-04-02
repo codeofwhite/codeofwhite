@@ -8,11 +8,11 @@
 🎓 **Students of Chongqing University, Class of 2022**  
 📊 **Majoring in Data Science and Big Data Technology**  
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ### 朋友你好呀！我是張和俊 
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ### 联系我
 📧 **Email**: 1363180320@qq.com
