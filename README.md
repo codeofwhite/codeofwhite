@@ -9,7 +9,7 @@
 ### About Me
 
 - Online nickname used across all platforms: **codeofwhite**（全网都叫 codeofwhite）
-- I’m currently learning: **Embodied AI, LLM Agents
+- I’m currently learning: Embodied AI, LLM Agents
 
 ---
 
